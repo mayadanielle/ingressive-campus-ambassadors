@@ -6,3 +6,5 @@ Four major pages we'll be creating:
 2. ICA blog
 3. Learning Modules page
 4. Trainings / Events calendar page
+
+You can reach out to me to ask more questions or email communications@ingressive.co
