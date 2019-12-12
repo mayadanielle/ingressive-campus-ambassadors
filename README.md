@@ -20,7 +20,7 @@ Back-end :
 UI/UX :
 
 3. Learning Modules page
-Front-end : @ayoazeez26
+Front-end : @Ayoazeez26
 Back-end :
 UI/UX :
 
