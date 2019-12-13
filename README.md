@@ -16,12 +16,12 @@ UI/UX :
 
 2. ICA blog
 Front-end :
-Back-end :
+Back-end :@Samfield
 UI/UX :
 
 3. Learning Modules page
 Front-end : @Ayoazeez26
-Back-end :
+Back-end : @Samfield
 UI/UX :
 
 4. Trainings / Events calendar page
