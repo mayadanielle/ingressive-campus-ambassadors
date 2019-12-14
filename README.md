@@ -10,12 +10,12 @@ Four major pages we'll be creating:
 
 Each of these pages will be worked on by 4 different teams with at least 1 of each skill (front-end, back-end, UI/UX) make up the group. You can be in more than one team. So, identify which page you would like to work on and append your name;
 1. Profiling Webpage
-Front-end :
+Front-end :@lawalselim
 Back-end :
 UI/UX :
 
 2. ICA blog
-Front-end :
+Front-end :@lawalselim
 Back-end :@Samfield
 UI/UX :
 
