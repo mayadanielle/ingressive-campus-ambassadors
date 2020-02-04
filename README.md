@@ -17,7 +17,7 @@ UI/UX : @timtop99
 2. ICA blog
 Front-end :@lawalselim
 Back-end :@Samfield, @blgguy
-UI/UX :
+UI/UX : @wonexo
 
 3. Learning Modules page
 Front-end : @Ayoazeez26
