@@ -15,7 +15,7 @@ Back-end : @blgguy,@MubarakSULAYMAN (preferably the API)
 UI/UX : @timtop99
 
 2. ICA blog
-Front-end :@lawalselim
+Front-end :@lawalselim, @suleiman
 Back-end :@Samfield, @blgguy
 UI/UX : @wonexo
 
