@@ -29,6 +29,6 @@ Front-end :
 Back-end : @blgguy, @MubarakSULAYMAN (preferably the API)
 UI/UX :
 
-5. Home
+5. Home:@nevis_adhiambo
 
 You can reach out to me to ask more questions or email communications@ingressive.co
